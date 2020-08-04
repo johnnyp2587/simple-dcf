@@ -1,2 +1,2 @@
-# simple_dcf
+# Simple
 Simple DCF and simulation model, for company financial performance
